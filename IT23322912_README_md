@@ -1,0 +1,52 @@
+# ITPM Assignment 1
+
+## 📌 Project Overview
+This repository contains the source code, project files, and documentation for Assignment 1 of the Information Technology Project Management (ITPM) module. 
+
+> **Briefly describe your project here.** For example: *This project is a web-based project management dashboard designed to help teams track tasks, manage timelines, and allocate resources effectively.*
+
+## 👨‍🎓 Student Details
+* **Name:** Viraj Kosala
+* **Student ID:** IT23322912
+* **Module:** Information Technology Project Management (ITPM)
+
+## 🚀 Features
+List the core features or deliverables of your assignment application:
+* **Feature 1:** [e.g., User Authentication and Role Management]
+* **Feature 2:** [e.g., Interactive Task Tracking Dashboard]
+* **Feature 3:** [e.g., Automated Report Generation]
+
+## 🛠️ Tech Stack
+List the programming languages, frameworks, and tools you used to build this assignment:
+* **Frontend:** [e.g., HTML, CSS, JavaScript, React]
+* **Backend:** [e.g., Node.js, Java Spring Boot, Python Django]
+* **Database:** [e.g., MySQL, MongoDB]
+* **Tools:** [e.g., Git, Postman, Visual Studio Code]
+
+## ⚙️ Setup and Installation
+Follow these steps to set up the project locally on your machine.
+
+1. **Clone the repository:**
+   Run the following command in your terminal:
+   `git clone <https://github.com/VirajKosala/ITPM-ASSIGMENT-1---IT23322912.git>`
+
+2. **Navigate to the project directory:**
+   `cd ITPM-ASSIGMENT-1---IT23322912`
+
+3. **Install dependencies:**
+   *(Update this command based on your tech stack, e.g., `npm install`, `mvn clean install`, or `pip install -r requirements.txt`)*
+   `npm install`
+
+4. **Configure Environment Variables (If applicable):**
+   Create a `.env` file in the root directory and add your database configuration details.
+
+5. **Run the application:**
+   *(Update this command based on your tech stack)*
+   `npm start`
+
+## 📖 Usage
+Explain how a user or examiner can use your application once it is running. 
+* *Tip: If you have UI components, you can add screenshots by placing images in an `assets` folder and linking them like this: `!Dashboard Screenshot`*
+
+## 📝 License
+This project was created for academic purposes for the ITPM module.
